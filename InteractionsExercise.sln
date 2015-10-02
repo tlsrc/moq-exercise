@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractionsExercise", "InteractionsExercise\InteractionsExercise.csproj", "{6CC6F36F-7D69-439A-8D1C-55CA89A14947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractionsExerciseTest", "InteractionsExerciseTest\InteractionsExerciseTest.csproj", "{9556F964-5728-44E5-BFC8-8AA63DE18448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6CC6F36F-7D69-439A-8D1C-55CA89A14947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CC6F36F-7D69-439A-8D1C-55CA89A14947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CC6F36F-7D69-439A-8D1C-55CA89A14947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9556F964-5728-44E5-BFC8-8AA63DE18448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9556F964-5728-44E5-BFC8-8AA63DE18448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9556F964-5728-44E5-BFC8-8AA63DE18448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9556F964-5728-44E5-BFC8-8AA63DE18448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
